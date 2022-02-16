@@ -4,8 +4,13 @@ description: Lecture presentation on the relevance to antineutrino analysis of g
   concentration determination of radiogenic heat producing elements (HPE) by terrestrial
   heat flow studies and Bulk Silicate Earth (BSE) models, and unconventional models
   of the Earth's core.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/69daed1451c5a93e31365034b1a9eac7_MIT12_091IAP10_lec1.pdf
+file: /media/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/69daed1451c5a93e31365034b1a9eac7_MIT12_091IAP10_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Session 1
 uid: 69daed14-51c5-a93e-3136-5034b1a9eac7
