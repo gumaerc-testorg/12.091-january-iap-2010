@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4b57f460-b223-f387-80fe-1483a13c2402
 resourcetype: Document
 title: 'Session 1: Student Assignments'
 uid: d5dc9efd-db20-fc42-ab90-ab6fddaf990b
