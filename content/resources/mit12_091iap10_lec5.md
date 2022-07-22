@@ -7,6 +7,7 @@ file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Session 5
 uid: 1fbb31c6-1429-6241-35eb-1634c0047997
 ---
 Lecture presentation on considerations for dedicated antineutrino detectors to probe the Earth's deep interior for the determination of concentrations of heat producing elements.
-

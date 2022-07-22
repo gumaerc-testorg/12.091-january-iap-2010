@@ -9,6 +9,7 @@ file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Session 3
 uid: 8c0a06fa-81ee-1a84-0349-7f3011dd3640
 ---
 Lecture presentation on the relevance of existing large antineutrino detectors for probing the HPE in Earth's deep interior, and the characteristics, research, and contributions of the two existing antineutrino detectors - Sudbury Neutrino Observatory (SNO), Canada and Kamioka Liquid Scintillator Antineutrino Detector (KamLAND), Japan.
-

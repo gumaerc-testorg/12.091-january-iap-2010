@@ -6,6 +6,7 @@ file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Session 1: Student Assignments'
 uid: d5dc9efd-db20-fc42-ab90-ab6fddaf990b
 ---
 Assignment on geoscience, geodynamics, heat transfer, radiogenic heat, and terrestrial heat
-

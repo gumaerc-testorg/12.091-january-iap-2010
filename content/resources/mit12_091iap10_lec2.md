@@ -7,6 +7,7 @@ file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Session 2
 uid: ed4136f9-2368-85d0-c210-b664419eb79a
 ---
 Lecture presentation on the basic radiation characteristics of heat producing elements (HPE): alpha, beta, gamma, neutrino, and antineutrino radiations, the basics of radiation detection concepts, and antineutrino radiation detection.
-

@@ -6,6 +6,7 @@ file: /courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Session 3 Assignments
 uid: 0d44b324-bc7e-880d-f70e-1a6e226fe04d
 ---
 Problem set on antineutrino detectors, background interferences, and the the main differences between kamLAND and SNO+ antineutrino detectors.
-
