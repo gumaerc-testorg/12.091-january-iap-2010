@@ -64,8 +64,10 @@
     "website": "12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Lecture Notes"
   ],
-  "site_uid": "3ed37b0f-cee2-4be0-9d4a-79773b86069e",
+  "site_uid": "a18021d1-b1b2-43ef-af26-26e40a1514a3",
+  "site_short_id": "12.091-january-iap-2010",
   "title": "Course Metadata"
 }
