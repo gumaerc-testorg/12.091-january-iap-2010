@@ -26,7 +26,7 @@ uid: ed9885f2-d664-e2ea-6567-c807c2870a48
 3. Radiogenic Heat   
       
     Stacey, F. D., and P. M. Davis. "The Global Energy Budget." Chapter 21 in *Physics of the Earth*. Cambridge, UK: Cambridge University Press, 2008, pp. 348-360. ISBN: 9780521873628. (hardback)
-4. [Sub Structure of the Inner Core of the Earth](http://www.pnas.org/content/93/2/646.full.pdf+html)   
+4. {{% resource_link "5c3911a5-64d0-4563-8921-e01f66decdd1" "Sub Structure of the Inner Core of the Earth" %}}   
       
     Herndon, J. M. *Proceedings of the National Academy of Sciences* 93 (1996): 646-648.
 
@@ -34,22 +34,22 @@ uid: ed9885f2-d664-e2ea-6567-c807c2870a48
 
 1. Uranium and Thorium decay series.   
       
-    Evans, R. D. "Genealogy of Nuclides which Emit α Rays." Chapter 16.2 in [*The Atomic Nucleus*](http://www.archive.org/details/atomicnucleus032805mbp), pp. 517-523.
-2. Detection of the Free Neutrino — Reines and Cowan Experiment ([PDF](http://library.lanl.gov/cgi-bin/getfile?00326606.pdf))
+    Evans, R. D. "Genealogy of Nuclides which Emit α Rays." Chapter 16.2 in {{% resource_link "3ace6f01-87d2-43dd-8ac5-a3b0f88361eb" "*The Atomic Nucleus*" %}}, pp. 517-523.
+2. Detection of the Free Neutrino — Reines and Cowan Experiment ({{% resource_link "2017c6c2-ba46-48ed-954c-e3edddebdfbe" "PDF" %}})
 
 ## Session 3
 
-1. Short history of concept of Earth as Antineutrino source (1960 - 2004), Radiogenic Heat Sources inside the Earth [G. Domogatsky](http://arxiv.org/find/hep-ph/1/au:+Domogatsky_G/0/1/0/all/0/1), [V. Kopeikin](http://arxiv.org/find/hep-ph/1/au:+Kopeikin_V/0/1/0/all/0/1), [L. Mikaelyan](http://arxiv.org/find/hep-ph/1/au:+Mikaelyan_L/0/1/0/all/0/1), [V. Sinev](http://arxiv.org/find/hep-ph/1/au:+Sinev_V/0/1/0/all/0/1), 2004   
+1. Short history of concept of Earth as Antineutrino source (1960 - 2004), Radiogenic Heat Sources inside the Earth {{% resource_link "a4909075-ff37-4660-bd51-f1bfb412cc6f" "G. Domogatsky" %}}, {{% resource_link "bf2aa37d-b1e7-4880-8e1b-0af4bb1aca20" "V. Kopeikin" %}}, {{% resource_link "52fe7714-c578-4806-8f49-c2d49b1e51c5" "L. Mikaelyan" %}}, {{% resource_link "88a0acea-1857-4b26-ab24-e68d0aafc00d" "V. Sinev" %}}, 2004   
       
-    [http://arxiv.org/abs/hep-ph/0409069](http://arxiv.org/abs/hep-ph/0409069)
+    {{% resource_link "d6b41844-620f-4d09-bc07-89d872716f51" "http://arxiv.org/abs/hep-ph/0409069" %}}
 
 ## Session 4
 
 1. Birch, F. "Specrulation on the Earth's Thermal History." *Geol Soc Am Bull BIRCH* 76, no. 2 (1965): 133. (1181K)   
      
-2. [Background for Terrestrial Antineutrino Investigations: Radionuclide Distribution, Georeactor Fission Events, and Boundary Conditions on Fission Power Production](http://arxiv.org/abs/hep-ph/0501216), J. M. Herndon, D. A. Edgerley, 2005   
+2. {{% resource_link "50beba34-19df-4a97-a21d-0a416922ddc3" "Background for Terrestrial Antineutrino Investigations: Radionuclide Distribution, Georeactor Fission Events, and Boundary Conditions on Fission Power Production" %}}, J. M. Herndon, D. A. Edgerley, 2005   
      
-3. Considerations For a Dedicated Geoneutrino Detector For Geosciences, P. Ila, W. Gosnold, P. Jagam, G. I. Lykken (GRAFG) AGU 2008 ([PDF - 1.5MB](http://arxiv.org/ftp/arxiv/papers/0902/0902.3607.pdf))   
+3. Considerations For a Dedicated Geoneutrino Detector For Geosciences, P. Ila, W. Gosnold, P. Jagam, G. I. Lykken (GRAFG) AGU 2008 ({{% resource_link "7fd6b5af-380d-4366-a49f-b7166b17b1b8" "PDF - 1.5MB" %}})   
      
 
 ## In AGU Special Session
